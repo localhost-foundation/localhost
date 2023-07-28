@@ -1,0 +1,13 @@
+Package: localhost
+Version: 201
+Architecture: armhf
+Maintainer: M. KRL <mkrochmal@outlook.com>
+Installed-Size: 20299
+Filename: ./localhost_2.0.1_armhf.deb
+Size: 4756288
+MD5sum: 953a5c649a5706891b0ac7ffa214f3b2
+SHA1: e833b22518839f00ae576c194c4637ca55c91ca4
+SHA256: 847e81b9a9e51449490de2c45d19a77e4ac4a0b6dc61b2bf3c9ab102d666a9e4
+Section: devel
+Priority: optional
+Description: localhost
